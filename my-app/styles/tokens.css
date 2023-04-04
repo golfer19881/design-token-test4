@@ -1,0 +1,19 @@
+
+/**
+ * Do not edit directly
+ * Generated on Tue, 04 Apr 2023 07:32:55 GMT
+ */
+
+$fs-large: 20 !default;
+$fs-primary: 16 !default;
+$fs-small: 12 !default;
+$border-color: #c7c7c7 !default;
+$primary: #1e6de4 !default;
+
+$css-tokens: (
+  'Primary': $primary,
+  'border-color': $border-color,
+  'fsSmall': $fs-small,
+  'fsPrimary': $fs-primary,
+  'fsLarge': $fs-large
+);

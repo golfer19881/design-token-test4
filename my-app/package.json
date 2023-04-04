@@ -31,6 +31,8 @@
     "@storybook/testing-library": "^0.0.14-next.2",
     "chromatic": "^6.17.2",
     "eslint-plugin-storybook": "^0.6.11",
-    "storybook": "^7.0.2"
+    "storybook": "^7.0.2",
+    "style-dictionary": "^3.7.2",
+    "token-transformer": "^0.0.32"
   }
 }
